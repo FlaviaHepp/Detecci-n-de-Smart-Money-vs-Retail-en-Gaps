@@ -90,3 +90,56 @@ Conclusión:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+🧠 **El mercado está activo… pero no se mueve. ¿Señal de oportunidad o trampa?**
+
+Imaginá esto:
+
+📈 Hay un gap fuerte en la apertura (noticia relevante)
+📊 El volumen explota
+😐 Pero el precio… casi no se mueve durante el día
+
+¿Raro, no?
+
+👉 Este patrón suele esconder algo clave:
+**distribución de “smart money” hacia inversores minoristas.**
+
+---
+
+🚨 Lo que parece interés… puede ser salida.
+
+En este análisis busqué sectores donde:
+
+* El **volumen promedio es alto** (participación fuerte)
+* Pero el **rango diario es bajo** (poca convicción direccional)
+
+💡 Traducción:
+Muchas transacciones… pero sin avance real en el precio.
+
+---
+
+⚠️ ¿Qué puede estar pasando?
+
+* Instituciones aprovechando el gap para vender
+* Retail entrando tarde, impulsado por la noticia
+* Absorción de órdenes sin continuación de tendencia
+
+---
+
+📉 Insight clave:
+**No todo volumen confirma una tendencia.**
+A veces, confirma exactamente lo contrario.
+
+---
+
+🔍 Este tipo de señales permite detectar:
+✔️ Trampas post-noticia
+✔️ Falsos breakouts
+✔️ Zonas de distribución institucional
+
+---
+
+En mercados financieros, entender *quién está detrás del movimiento* es tan importante como el movimiento en sí.
+
+#Trading #Quant #DataScience #SmartMoney #AnálisisTécnico #Finanzas #MarketMicrostructure
